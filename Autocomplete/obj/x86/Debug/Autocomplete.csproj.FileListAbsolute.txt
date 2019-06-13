@@ -1,0 +1,12 @@
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\bin\Debug\Eurocopa.mdf
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\bin\Debug\Eurocopa_log.ldf
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\bin\Debug\Autocomplete.exe.config
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\bin\Debug\Autocomplete.exe
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\bin\Debug\Autocomplete.pdb
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\Autocomplete.Form1.resources
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\Autocomplete.Properties.Resources.resources
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\Autocomplete.exe
+C:\Documents and Settings\cristian\Mis documentos\programas c#\Autocomplete\Autocomplete\obj\x86\Debug\Autocomplete.pdb
